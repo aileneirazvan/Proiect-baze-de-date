@@ -1,0 +1,52 @@
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\SalaFitness.exe
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\SalaFitness.deps.json
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\SalaFitness.runtimeconfig.json
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\SalaFitness.runtimeconfig.dev.json
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\SalaFitness.dll
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\SalaFitness.pdb
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.csprojAssemblyReference.cache
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.Abonament.resources
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.Categorie.resources
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.Login.resources
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.MeniuPrincipal.resources
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.Persoana.resources
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.Sala.resources
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.csproj.GenerateResource.cache
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.AssemblyInfoInputs.cache
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.AssemblyInfo.cs
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.csproj.CoreCompileInputs.cache
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.csproj.CopyComplete
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.dll
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.pdb
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.genruntimeconfig.cache
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\ailen\source\repos\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.Properties.Resources.resources
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\SalaFitness.exe
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\SalaFitness.deps.json
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\SalaFitness.runtimeconfig.json
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\SalaFitness.runtimeconfig.dev.json
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\SalaFitness.dll
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\SalaFitness.pdb
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.csprojAssemblyReference.cache
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.Abonament.resources
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.Categorie.resources
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.Login.resources
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.MeniuPrincipal.resources
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.Persoana.resources
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.Properties.Resources.resources
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.Sala.resources
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.csproj.GenerateResource.cache
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.AssemblyInfoInputs.cache
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.AssemblyInfo.cs
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.csproj.CoreCompileInputs.cache
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.csproj.CopyComplete
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.dll
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.pdb
+C:\Users\ailen\OneDrive\Desktop\proiect BD documentatie\SalaFitness\SalaFitness\obj\Debug\netcoreapp3.1\SalaFitness.genruntimeconfig.cache
